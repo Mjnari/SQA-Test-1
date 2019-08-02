@@ -1,3 +1,5 @@
+This is an old program I was asked to submit for an entry level SQA interview. The program passed the interview at the time.
+
 Mjnari Richards
 
 Compile:
