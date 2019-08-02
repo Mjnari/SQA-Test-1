@@ -1,0 +1,45 @@
+Automotive parts
+Some of these look the same but they are to test for spaces/tabs.
+ 
+  
+a
+A
+ a
+ A
+ a 
+aa
+a a
+a  a
+a	a
+aaa
+aAa
+aa a
+a a a
+aaaa
+aAaa
+aAAa
+aAaA
+ aaaa
+ab
+aba
+abba
+ababa
+aaAbBa
+1
+12
+123
+`~1!2@3#4$5%6^7&8*9(0)-_=+\|]}[{'";:/?.>,<
+`~1!2@3#4$5%6^7&8* 9(0)-_=+\|]}[{' ";:/?.>,<
+a1a
+aa1aa
+aba1aba
+abcd`abcd~abcd1!2@3#4$5%6^7abcd&8*9(0)-_=+\|]}[{'";:/?.>,<abcd
+A computer science career can lead to work that is both challenging and fulfilling.  It is work that allows one to keep growing; constantly learning to tackle new problems.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+汉字
+abc汉字defg
+éñ
+lmñop
+abcdéfg
+ab¿cd
+

@@ -1,0 +1,258 @@
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: Automotive parts
+Your modified word is: A6e p3s
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: Some of these look the same but they are to test for spaces/tabs.
+Your modified word is: S2e o0f t3e l1k t1e s2e b1t t2y a1e t0o t2t f1r s4s/t2s.
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:  
+Your modified word is:  
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:   
+Your modified word is:   
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a
+Your modified word is: a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: A
+Your modified word is: A0A
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:  a
+Your modified word is:  a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:  A
+Your modified word is:  A0A
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:  a 
+Your modified word is:  a0a 
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aa
+Your modified word is: a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a a
+Your modified word is: a0a a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a  a
+Your modified word is: a0a  a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a	a
+Your modified word is: a0a	a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aaa
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aAa
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aa a
+Your modified word is: a0a a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a a a
+Your modified word is: a0a a0a a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aaaa
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aAaa
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aAAa
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aAaA
+Your modified word is: a1A
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered:  aaaa
+Your modified word is:  a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: ab
+Your modified word is: a0b
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aba
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: abba
+Your modified word is: a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: ababa
+Your modified word is: a2a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aaAbBa
+Your modified word is: a2a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: 1
+Your modified word is: 1
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: 12
+Your modified word is: 12
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: 123
+Your modified word is: 123
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: `~1!2@3#4$5%6^7&8*9(0)-_=+\|]}[{'";:/?.>,<
+Your modified word is: `~1!2@3#4$5%6^7&8*9(0)-_=+\|]}[{'";:/?.>,<
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: `~1!2@3#4$5%6^7&8* 9(0)-_=+\|]}[{' ";:/?.>,<
+Your modified word is: `~1!2@3#4$5%6^7&8* 9(0)-_=+\|]}[{' ";:/?.>,<
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: a1a
+Your modified word is: a0a1a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aa1aa
+Your modified word is: a0a1a0a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aba1aba
+Your modified word is: a1a1a1a
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: abcd`abcd~abcd1!2@3#4$5%6^7abcd&8*9(0)-_=+\|]}[{'";:/?.>,<abcd
+Your modified word is: a2d`a2d~a2d1!2@3#4$5%6^7a2d&8*9(0)-_=+\|]}[{'";:/?.>,<a2d
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: A computer science career can lead to work that is both challenging and fulfilling.  It is work that allows one to keep growing; constantly learning to tackle new problems.
+Your modified word is: A0A c6r s4e c3r c1n l2d t0o w2k t2t i0s b2h c7g a1d f5g.  I0t i0s w2k t2t a3s o1e t0o k1p g5g; c6y l5g t0o t4e n1w p6s.
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+Your modified word is: a10j
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: 汉字
+Your modified word is: 汉字
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: abc汉字defg
+Your modified word is: a1c汉字d2g
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: éñ
+Your modified word is: éñ
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: lmñop
+Your modified word is: l0mño0p
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: abcdéfg
+Your modified word is: a2déf0g
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: ab¿cd
+Your modified word is: a0b¿c0d
+
+
+Enter the word/s you want modified.
+If you are done using this program press enter with no other input.
+You entered: 
+Your modified word is: 
+
+Have a nice day
